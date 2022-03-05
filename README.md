@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgoyanka10
-- 👀 I’m interested in Data Science & Analytics
+- 👀 I’m interested in Data Science, Analytics, Machine Learning
 - 🌱 I’m currently learning Advanced Analytics and Business Skills
 - 💞️ I’m looking to collaborate on data-driven decision making projects
 - 📫 Reach me out @[LinkedIn](https://www.linkedin.com/in/shubham-goyanka/), @[Email](mailto:goyanka34@gmail.com)
